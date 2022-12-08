@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-def uniq_q_add(my_list=[]):
+def uniq_add(my_list=[]):
     uniq_list = set(my_list)
     num = 0
 
